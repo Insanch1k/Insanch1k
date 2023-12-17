@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently actively working on my hard and soft skills<br>🌱 I’m currently learning more about mobile apps (React Native)<br>💬 Ask me about any tech-related or gyms trainings staff  <br>⚡ Fun fact: I can talk for hours about Eminem's discography and biography<br>📧 How to reach me: anton.kryvushenko@gmail.com<br><br><br>
+🔭 I’m currently actively working on my hard and soft skills<br>🌱 I’m currently learning more about mobile apps (React Native)<br>💬 Ask me about any tech-related or gym training staff  <br>⚡ Fun fact: I can talk for hours about Eminem's discography and biography<br>📧 How to reach me: anton.kryvushenko@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
